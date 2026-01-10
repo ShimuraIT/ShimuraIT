@@ -1,4 +1,4 @@
-# ShimuraIT
+# Shimura - Big Project TBA
 
 I like writing software that achieves big things simply.
 
