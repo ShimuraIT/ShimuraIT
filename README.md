@@ -15,7 +15,7 @@ Stuff I Done Did
 
 About me
 ---
-#### Likes:
+### Likes:
 - C, Objective C
 - Unix philosophy
 - Doing things "the hard way" (read: "Doing things the manual/understandable/simple way.")
@@ -23,7 +23,7 @@ About me
 - AI demystifying awful old-world syntax
 - P2P
 
-#### Dislikes:
+### Dislikes:
 - Rust, C++, Whatever new popular language
 - Bloated "development frameworks"
 - Docker
@@ -31,7 +31,7 @@ About me
 - AI written code
 - Adding Crypto/Web3/Blockchain to stuff that doesn't need it
 
-#### Philosophy:
+### Philosophy:
 - "An idiot admires complexity, a genius admires simplicity." [— King Terry A. Davis](https://www.youtube.com/watch?v=k0qmkQGqpM8)
 - [K.I.S.S.](https://en.wikipedia.org/wiki/KISS_principle?useskin=vector)
 - Whatever Ken Thompson and Rob Pike say is true, and if you disagree you simply don't understand yet.
