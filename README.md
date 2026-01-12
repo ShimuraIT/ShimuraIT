@@ -16,7 +16,7 @@ Stuff I Done Did
 About me
 ---
 ### Likes:
-- C, Objective C
+- C, the whole C, and nothing but the C.
 - Unix philosophy
 - Doing things "the hard way" (read: "Doing things the manual/understandable/simple way.")
 - Effective software
