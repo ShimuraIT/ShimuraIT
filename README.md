@@ -22,6 +22,8 @@ About me
 - Effective software
 - AI demystifying awful old-world syntax
 - P2P
+- Desktop applications and websites made for desktop
+- Wide web design
 
 ### Dislikes:
 - Rust, C++, Whatever new popular language
@@ -30,8 +32,10 @@ About me
 - Pointless software that doesn't really achieve anything new
 - AI written code
 - Adding Crypto/Web3/Blockchain to stuff that doesn't need it
+- Smartphonification of UI
+- Thin websites with **giant** unused margins
 
 ### Philosophy:
 - "An idiot admires complexity, a genius admires simplicity." [— King Terry A. Davis](https://www.youtube.com/watch?v=k0qmkQGqpM8)
-- [K.I.S.S.](https://en.wikipedia.org/wiki/KISS_principle?useskin=vector)
+- [K.I.S.S. — Keep it simple, stupid](https://en.wikipedia.org/wiki/KISS_principle?useskin=vector)
 - Whatever Ken Thompson and Rob Pike say is true, and if you disagree you simply don't understand yet.
