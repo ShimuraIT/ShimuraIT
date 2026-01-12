@@ -2,12 +2,6 @@
 
 I like writing software that achieves big things simply.
 
----
-
-What you need to know about me is that basically I'm a boy genius like Jimmy Neutron and you shouldn't even try to get at my level.
-
-That's a joke. My work is dedicated to making you do incredible things. Because they are easy. Well that's not quite it either...
-
 Blog coming soon.
 
 ---
@@ -16,3 +10,28 @@ Stuff I Done Did
 ---
 - [Zeptext](https://github.com/ShimuraIT/Zeptext) — Lightest textboard ever, made in a couple hours for my blog.
 - [Clay_Unicode](https://github.com/ShimuraIT/clay_unicode) — Ad-hoc modification to the [Clay UI Library](https://github.com/nicbarker/clay/) which as the name suggests adds unicode support.
+
+---
+
+About me
+---
+#### Likes:
+- C, Objective C
+- Unix philosophy
+- Doing things "the hard way" (read: "Doing things the manual/understandable/simple way.")
+- Effective software
+- AI demystifying awful old-world syntax
+- P2P
+
+#### Dislikes:
+- Rust, C++, Whatever new popular language
+- Bloated "development frameworks"
+- Docker
+- Pointless software that doesn't really achieve anything new
+- AI written code
+- Adding Crypto/Web3/Blockchain to stuff that doesn't need it
+
+#### Philosophy:
+- "An idiot admires complexity, a genius admires simplicity." [— King Terry A. Davis](https://www.youtube.com/watch?v=k0qmkQGqpM8)
+- [K.I.S.S.](https://en.wikipedia.org/wiki/KISS_principle?useskin=vector)
+- Whatever Ken Thompson and Rob Pike say is true, and if you disagree you simply don't understand yet.
