@@ -15,10 +15,16 @@ Stuff I Done Did
 
 About me
 ---
+### Faves:
+- C Syntax
+- Javascript (in moderation)
+- JSON
+- Single File Software
+
 ### Likes:
 - C, the whole C, and nothing but the C.
 - Unix philosophy
-- Doing things "the hard way" (read: "Doing things the manual/understandable/simple way.")
+- Doing things "the hard way" *(read: "Doing things the manual/understandable/simple way.")*
 - Effective software
 - AI demystifying awful old-world syntax
 - P2P
@@ -29,7 +35,7 @@ About me
 - Rust, C++, Whatever new popular language
 - Bloated "development frameworks"
 - Docker
-- Pointless software that doesn't really achieve anything new
+- Reinventing the wheel
 - AI written code
 - Adding Crypto/Web3/Blockchain to stuff that doesn't need it
 - Smartphonification of UI
@@ -38,4 +44,4 @@ About me
 ### Philosophy:
 - "An idiot admires complexity, a genius admires simplicity." [— King Terry A. Davis](https://www.youtube.com/watch?v=k0qmkQGqpM8)
 - [K.I.S.S. — Keep it simple, stupid](https://en.wikipedia.org/wiki/KISS_principle?useskin=vector)
-- Whatever Ken Thompson and Rob Pike say is true, and if you disagree you simply don't understand yet.
+- Whatever Ken Thompson says is true, and if you disagree you simply don't understand yet.
