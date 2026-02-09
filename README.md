@@ -8,6 +8,8 @@ Blog coming soon.
 
 Stuff I Done Did
 ---
+(for fun backstories, additional info, etc. view [ShimuraIT.github.io](https://shimurait.github.io/))
+
 - [Zeptext](https://github.com/ShimuraIT/Zeptext) — Lightest textboard ever, made in a couple hours for my blog.
 - [Clay_Unicode](https://github.com/ShimuraIT/clay_unicode) — Ad-hoc modification to the [Clay UI Library](https://github.com/nicbarker/clay/) which as the name suggests adds unicode support.
 
