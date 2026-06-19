@@ -1,12 +1,14 @@
-# Shimura - Big Project TBA
+# Shimura
 
 I like writing software that achieves big things simply.
 
 Blog coming soon.
 
 ---
+# [Immersion Therapist](https://www.youtube.com/watch?v=DBCTMdmvBKs)
+---
 
-Stuff I Done Did
+(Other) Stuff I Done Did
 ---
 (for fun backstories, additional info, etc. view [ShimuraIT.github.io](https://shimurait.github.io/))
 
