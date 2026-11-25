@@ -5,7 +5,7 @@ I like writing software that achieves big things simply.
 Blog coming soon.
 
 ---
-# [Immersion Therapist](https://www.youtube.com/watch?v=DBCTMdmvBKs)
+### Current project (re)TBA, still needs some time in the oven...
 ---
 
 (Other) Stuff I Done Did
